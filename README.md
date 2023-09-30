@@ -1,6 +1,7 @@
 # AStarInC
 A* pathfinding algorithm in c.
 
+Red is coordinates. Blue is cost between the nodes.
 
 In main.c, there is setup for nodes in the 2D Plane. 
 
