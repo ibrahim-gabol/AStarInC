@@ -1,6 +1,3 @@
-//
-// Created by hhyyt on 28/06/2023.
-//
 
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
