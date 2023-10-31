@@ -1,8 +1,3 @@
-
-
-#ifndef UNTITLED1_NODE_H
-#define UNTITLED1_NODE_H
-
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
@@ -33,4 +28,4 @@ struct node* newNode(char name, char connections[NUMNODES - 1], int connectionWe
 
 }
 
-#endif //UNTITLED1_NODE_H
+
